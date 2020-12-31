@@ -8,5 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         println("this is my second commit see the gree line in the number side")
+        today is a a good day
     }
 }
