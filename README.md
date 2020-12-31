@@ -1,0 +1,3 @@
+# FirstGit
+THIS IS MY FIRST TIME
+HELLO JO
